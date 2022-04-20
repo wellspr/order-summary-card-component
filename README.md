@@ -25,13 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/desktop.png)
+![](./screenshots/mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-using-html-and-css-with-flexbox-BJoVThhVc](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-card-using-html-and-css-with-flexbox-BJoVThhVc)
+- Live Site URL: [https://order-summary-card-component-wellspr.vercel.app/](https://order-summary-card-component-wellspr.vercel.app/)
 
 ## My process
 
@@ -46,14 +47,14 @@ Users should be able to:
 
 ### What I learned
 
-
-### Continued development
+As I complete this challenge, I can see clearly that writing semantic html is much more than choosing among some fancy tags. I understood that semantic html and accessibility are closely related. 
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [https://www.mediacurrent.com/blog/how-build-card-component](https://www.mediacurrent.com/blog/how-build-card-component) - This is a great reference that helps understand the problem of building a card component using semantic html.
 
+- [https://www.thisdot.co/blog/make-it-accessible-better-layout-with-html](https://www.thisdot.co/blog/make-it-accessible-better-layout-with-html) - This is also a great resource, in which the concept of accessibility is put at the center of the discussion, making clear the fundamental importance of a semantic markup for accessible html documents.
 
 ## Author
 
